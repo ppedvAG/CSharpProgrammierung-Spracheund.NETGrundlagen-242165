@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Konvertierung", "Lab.Konvertierung\Lab.Konvertierung.csproj", "{AAABB3B7-FBC7-42D2-A275-8710099F06A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M003-Arrays-If", "M003-Arrays-If", "{C6C6A831-605F-41FB-8D5A-312DB1725D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{2497C05D-9A87-417B-B87C-347CC066D32C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,10 @@ Global
 		{AAABB3B7-FBC7-42D2-A275-8710099F06A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAABB3B7-FBC7-42D2-A275-8710099F06A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAABB3B7-FBC7-42D2-A275-8710099F06A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2497C05D-9A87-417B-B87C-347CC066D32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2497C05D-9A87-417B-B87C-347CC066D32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2497C05D-9A87-417B-B87C-347CC066D32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2497C05D-9A87-417B-B87C-347CC066D32C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{2D203F9B-70E4-449C-97D4-9B8F05B1868D} = {2A18C1B7-1EEC-4C7A-8BEB-EBC6C9B594F1}
 		{58646E76-B8EE-4723-B214-64D9E1E7BA11} = {2B183D16-389D-4C88-89B4-095C77034675}
 		{AAABB3B7-FBC7-42D2-A275-8710099F06A6} = {2B183D16-389D-4C88-89B4-095C77034675}
+		{2497C05D-9A87-417B-B87C-347CC066D32C} = {C6C6A831-605F-41FB-8D5A-312DB1725D97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE7781BF-D188-41F2-B61B-1233C597694B}
