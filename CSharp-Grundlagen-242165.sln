@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M004-Loops-Enums", "M004-Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsEnums", "LoopsEnums\LoopsEnums.csproj", "{3D6F2B80-28AC-4758-BD62-8950F3924AF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Rechner", "Lab.Rechner\Lab.Rechner.csproj", "{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{2497C05D-9A87-417B-B87C-347CC066D32C} = {C6C6A831-605F-41FB-8D5A-312DB1725D97}
 		{021FD552-D112-4276-B36C-CC00354C7AC4} = {C6C6A831-605F-41FB-8D5A-312DB1725D97}
 		{3D6F2B80-28AC-4758-BD62-8950F3924AF0} = {049018BA-8008-4546-A6EF-EEF0B1DE9718}
+		{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574} = {049018BA-8008-4546-A6EF-EEF0B1DE9718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE7781BF-D188-41F2-B61B-1233C597694B}
