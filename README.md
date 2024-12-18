@@ -56,11 +56,12 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M07 | OOP - GARBAGE COLLECTION, STATISCHE MEMBER, WERTE und REFERENZEN
 
--	[ ]  Destruktor
+-	[x]  Destruktor
 -	[ ]  Garbage Collection
--	[ ]  Statische Member
--	[ ]  Werte- und Referenztypen
+-	[x]  Statische Member
+-	[x]  Werte- und Referenztypen
 -	[ ]  ref
+-	[x]  using und IDisposable
 
 ## M08 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
 
