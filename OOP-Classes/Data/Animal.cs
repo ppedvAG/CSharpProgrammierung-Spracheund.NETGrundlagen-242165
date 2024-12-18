@@ -106,7 +106,7 @@ namespace OOP_Classes.Data
         {
             if (_isAlive)
             {
-                Console.WriteLine(FavoriteFood + "... Yumi!");
+                Console.WriteLine(FavoriteFood + "... Yumi! 😀");
             }
         }
 
