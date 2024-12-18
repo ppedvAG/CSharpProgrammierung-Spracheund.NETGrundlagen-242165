@@ -46,13 +46,13 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M06 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
 
--	[ ]  Namespaces
--	[ ]  Klassen
--	[ ]  Felder
--	[ ]  Eigenschaften
--	[ ]  Kapselungen
--	[ ]  Konstruktoren
--	[ ]  Objekte
+-	[x]  Namespaces
+-	[x]  Klassen
+-	[x]  Felder
+-	[x]  Eigenschaften
+-	[x]  Kapselungen
+-	[x]  Konstruktoren
+-	[x]  Objekte
 
 ## M07 | OOP - GARBAGE COLLECTION, STATISCHE MEMBER, WERTE und REFERENZEN
 
