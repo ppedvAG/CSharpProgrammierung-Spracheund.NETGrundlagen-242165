@@ -11,35 +11,23 @@ namespace Schaltjahrrechner_MiniLotto
 
             //Abfrage der Eingabe
             Console.WriteLine("Gib das Jahr ein:");
-            int eingabe = int.Parse(Console.ReadLine());
+            int year = int.Parse(Console.ReadLine());
 
             //Deklarierung/Initialisierung der bool-Variablen
             bool istSchaltjahr = false;
 
             //Prüfung einer Teilbarkeit durch 4
-            if (eingabe % 4 == 0)
+            if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
             {
                 //Setzten der Variablen auf true
                 istSchaltjahr = true;
-
-                //Prüfung einer Teilbarkeit durch 100
-                if (eingabe % 100 == 0)
-                {
-                    //Setzten der Variablen auf false
-                    istSchaltjahr = false;
-
-                    //Prüfung einer Teilbarkeit durch 400
-                    if (eingabe % 400 == 0)
-                        //Setzten der Variablen auf true
-                        istSchaltjahr = true;
-                }
             }
 
             //Ausgabe
-            Console.WriteLine($"{eingabe} ist Schaltjahr: {istSchaltjahr}");
+            Console.WriteLine($"{year} ist Schaltjahr: {istSchaltjahr}");
 
             //Alternative (detailiertere) Ausgabe mittels Kurz-Bedingung
-            string ausgabe = istSchaltjahr ? $"{eingabe} ist ein Schaltjahr." : $"{eingabe} ist kein Schaltjahr.";
+            string ausgabe = istSchaltjahr ? $"{year} ist ein Schaltjahr." : $"{year} ist kein Schaltjahr.";
             Console.WriteLine(ausgabe + "\n\n\n");
 
             #endregion

@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Schaltjahr", "Lab.Schaltjahr\Lab.Schaltjahr.csproj", "{021FD552-D112-4276-B36C-CC00354C7AC4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M004-Loops-Enums", "M004-Loops-Enums", "{049018BA-8008-4546-A6EF-EEF0B1DE9718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsEnums", "LoopsEnums\LoopsEnums.csproj", "{3D6F2B80-28AC-4758-BD62-8950F3924AF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{021FD552-D112-4276-B36C-CC00354C7AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021FD552-D112-4276-B36C-CC00354C7AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021FD552-D112-4276-B36C-CC00354C7AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6F2B80-28AC-4758-BD62-8950F3924AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,7 @@ Global
 		{AAABB3B7-FBC7-42D2-A275-8710099F06A6} = {2B183D16-389D-4C88-89B4-095C77034675}
 		{2497C05D-9A87-417B-B87C-347CC066D32C} = {C6C6A831-605F-41FB-8D5A-312DB1725D97}
 		{021FD552-D112-4276-B36C-CC00354C7AC4} = {C6C6A831-605F-41FB-8D5A-312DB1725D97}
+		{3D6F2B80-28AC-4758-BD62-8950F3924AF0} = {049018BA-8008-4546-A6EF-EEF0B1DE9718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE7781BF-D188-41F2-B61B-1233C597694B}
