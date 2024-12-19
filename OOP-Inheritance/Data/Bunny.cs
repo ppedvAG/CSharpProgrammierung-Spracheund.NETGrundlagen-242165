@@ -26,7 +26,10 @@
         public override void MakeSound()
         {
             base.MakeSound();
+
             Console.WriteLine("Hup Hup");
+            Console.Beep();
+            Console.Beep();
         }
 
         public string Hop()
