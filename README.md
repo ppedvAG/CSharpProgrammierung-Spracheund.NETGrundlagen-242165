@@ -91,7 +91,7 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 ## M12 | FEHLERBEHANDLUNG und UNIT-TESTS
 
 -	[ ]  try-catch
--	[ ]  eigene E ceptions
+-	[ ]  eigene Exceptions
 -	[ ]  UnitTests mit AAA-Pattern
 -	[ ]  Assert References
 -	[ ]  UnitTests DataRow
@@ -104,15 +104,15 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 -	[ ]  anonyme Methoden
 -	[ ]  EventHandler
 
-## M15 | DATEIEN und VERZEICHNISSE
+## M14 | DATEIEN und VERZEICHNISSE
 
 -	[ ]  Dateien lesen/schreiben
 -	[ ]  JSON
-- 	[ ]	  ML
+- 	[ ]	 XML
 
 ## M15 | SONSTIGES
 
--	[ ]  E tension Methods
+-	[ ]  Extension Methods
 -	[ ]  Linq und IEnumberable<T>
 -	[ ]  DebuggerDisplay
 -	[ ]  Rekursion vs. Iteration
