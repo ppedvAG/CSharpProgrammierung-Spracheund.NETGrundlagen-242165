@@ -86,12 +86,11 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M11 | GENERISCHE LISTEN
 
--	[ ]  Generische Datentypen
--	[ ]  List<T>
+-	[x]  Generische Datentypen
+-	[x]  List<T>
 - 	[ ]  Stack<T>
 - 	[ ]  Queue<T>
--	[ ]  Dictionary<T1, T2>
--	[ ]  Refactoring in M007_OOP-GP: Factory.CreateRandomPerson()
+-	[x]  Dictionary<T1, T2>
 
 ## M12 | FEHLERBEHANDLUNG und UNIT-TESTS
 
