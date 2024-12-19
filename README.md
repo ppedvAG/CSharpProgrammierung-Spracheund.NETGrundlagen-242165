@@ -73,11 +73,11 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M09 | OOP - POLYMORPHISMUS und TYPEN
 
--	[ ]  Polymorphismus
+-	[x]  **Polymorphismus**
 -	[ ]  Typtest "GetType()" & "typeof"
--	[ ]  Typtest "is"
+-	[x]  Typtest "is"
 - 	[ ]	 Member ausblenden (nicht so wichtig und nicht empfohlen)
--	[ ]  abstrakte Member und Klassen
+-	[x]  **abstrakte Member und Klassen**
 
 ## M10 | OOP - INTERFACES
  

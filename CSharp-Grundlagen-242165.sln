@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Inheritance", "OOP-Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Inheritance", "Lab.Inheritance\Lab.Inheritance.csproj", "{83C9C311-76BD-4BB6-9EE5-3F048CAC2933}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M009-OOP-Polymorphismus", "M009-OOP-Polymorphismus", "{2314F7F7-8543-432B-801F-E31FB73A3526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Polymorphismus", "OOP-Polymorphismus\OOP-Polymorphismus.csproj", "{395CA7A8-575D-44A0-9159-634B8906A525}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +113,10 @@ Global
 		{83C9C311-76BD-4BB6-9EE5-3F048CAC2933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83C9C311-76BD-4BB6-9EE5-3F048CAC2933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83C9C311-76BD-4BB6-9EE5-3F048CAC2933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395CA7A8-575D-44A0-9159-634B8906A525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395CA7A8-575D-44A0-9159-634B8906A525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395CA7A8-575D-44A0-9159-634B8906A525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395CA7A8-575D-44A0-9159-634B8906A525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,6 +136,7 @@ Global
 		{A8F69EFD-E960-4F67-A655-9C0E276B3E2F} = {62B6F373-6AB8-4046-971A-E2EA98D35E23}
 		{DEA840EE-3131-41EB-927E-E91A11C01C3C} = {2C7C8296-D386-4947-B835-7FA60AFC32F9}
 		{83C9C311-76BD-4BB6-9EE5-3F048CAC2933} = {2C7C8296-D386-4947-B835-7FA60AFC32F9}
+		{395CA7A8-575D-44A0-9159-634B8906A525} = {2314F7F7-8543-432B-801F-E31FB73A3526}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE7781BF-D188-41F2-B61B-1233C597694B}
