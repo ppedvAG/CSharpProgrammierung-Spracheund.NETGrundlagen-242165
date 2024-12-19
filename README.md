@@ -81,8 +81,8 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M10 | OOP - INTERFACES
  
--	[ ] Interfaces
--	[ ] Interface-Implementierungen
+-	[x] Interfaces
+-	[x] Interface-Implementierungen
 
 ## M11 | GENERISCHE LISTEN
 
