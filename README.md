@@ -65,11 +65,11 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M08 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
 
--	[ ]  Vererbung
--	[ ]  base
--	[ ]  virtuelle Member
+-	[x]  Vererbung
+-	[x]  base
+-	[x]  virtuelle Member
 -	[ ]  Überschreibungen verhindern
--	[ ]  Zugriffsmodifier
+-	[x]  Zugriffsmodifier
 
 ## M09 | OOP - POLYMORPHISMUS und TYPEN
 
@@ -78,6 +78,11 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 -	[ ]  Typtest "is"
 - 	[ ]	 Member ausblenden (nicht so wichtig und nicht empfohlen)
 -	[ ]  abstrakte Member und Klassen
+
+## M10 | OOP - INTERFACES
+ 
+-	[ ] Interfaces
+-	[ ] Interface-Implementierungen
 
 ## M11 | GENERISCHE LISTEN
 

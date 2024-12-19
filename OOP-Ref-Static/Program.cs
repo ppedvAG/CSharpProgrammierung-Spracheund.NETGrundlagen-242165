@@ -65,7 +65,7 @@ namespace OOP_Ref_Static
 
         /// <summary>
         /// Aus Dokumentation kopiert.
-        /// https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream?view=net-6.0
+        /// https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream
         /// </summary>
         /// <param name="fsSource"></param>
         /// <returns></returns>
