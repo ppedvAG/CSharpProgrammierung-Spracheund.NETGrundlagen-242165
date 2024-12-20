@@ -1,6 +1,6 @@
 ﻿namespace ExceptionHandling
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -8,7 +8,12 @@
 
             do
             {
-                number = ReadNumber();
+                Console.Write("Bitte eine Zahl eingeben:\t");
+
+                // Wir sehen mit IntelliSense welche Exceptions Console.ReadLine() werfen koennte.
+                var input = Console.ReadLine();
+
+                number = ReadNumber(input);
             }
             while (!number.HasValue);
 
@@ -23,17 +28,11 @@
         /// ob der Divisor 0 ist.
         /// </summary>
         /// <returns></returns>
-        private static int? ReadNumber()
+        public static int? ReadNumber(string? input)
         {
-            string? input = "";
-
             // Im Try-Block steht der Code, welcher potenyiell Fehler produzieren kann
             try
             {
-                Console.Write("Bitte eine Zahl eingeben:\t");
-
-                // Wir sehen mit IntelliSense welche Exceptions Console.ReadLine() werfen koennte.
-                input = Console.ReadLine();
 
                 // Wir sehen mit IntelliSense welche Exceptions int.Parse() werfen koennte.
                 var result = int.Parse(input);
