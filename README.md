@@ -110,8 +110,8 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 
 ## M14 | DATEIEN und VERZEICHNISSE
 
--	[ ]  Dateien lesen/schreiben
--	[ ]  JSON
+-	[x]  Dateien lesen/schreiben
+-	[x]  JSON
 - 	[ ]	 XML
 
 ## M15 | SONSTIGES
