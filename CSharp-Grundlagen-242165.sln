@@ -3,71 +3,75 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeter", "Greeter\Greeter.csproj", "{2D203F9B-70E4-449C-97D4-9B8F05B1868D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeter", "Greeter\Greeter.csproj", "{2D203F9B-70E4-449C-97D4-9B8F05B1868D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M001-Greeter", "M001-Greeter", "{2A18C1B7-1EEC-4C7A-8BEB-EBC6C9B594F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M002-Variablen", "M002-Variablen", "{2B183D16-389D-4C88-89B4-095C77034675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{58646E76-B8EE-4723-B214-64D9E1E7BA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{58646E76-B8EE-4723-B214-64D9E1E7BA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Konvertierung", "Lab.Konvertierung\Lab.Konvertierung.csproj", "{AAABB3B7-FBC7-42D2-A275-8710099F06A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Konvertierung", "Lab.Konvertierung\Lab.Konvertierung.csproj", "{AAABB3B7-FBC7-42D2-A275-8710099F06A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M003-Arrays-If", "M003-Arrays-If", "{C6C6A831-605F-41FB-8D5A-312DB1725D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{2497C05D-9A87-417B-B87C-347CC066D32C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{2497C05D-9A87-417B-B87C-347CC066D32C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Schaltjahr", "Lab.Schaltjahr\Lab.Schaltjahr.csproj", "{021FD552-D112-4276-B36C-CC00354C7AC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Schaltjahr", "Lab.Schaltjahr\Lab.Schaltjahr.csproj", "{021FD552-D112-4276-B36C-CC00354C7AC4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M004-Loops-Enums", "M004-Loops-Enums", "{049018BA-8008-4546-A6EF-EEF0B1DE9718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsEnums", "LoopsEnums\LoopsEnums.csproj", "{3D6F2B80-28AC-4758-BD62-8950F3924AF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsEnums", "LoopsEnums\LoopsEnums.csproj", "{3D6F2B80-28AC-4758-BD62-8950F3924AF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Rechner", "Lab.Rechner\Lab.Rechner.csproj", "{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Rechner", "Lab.Rechner\Lab.Rechner.csproj", "{6A0BF8E2-D0E7-41CF-9C72-55B62FFCE574}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M005-Functions", "M005-Functions", "{093864CF-4C26-453E-81B4-8B840477F161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{FBA305A1-80AC-4632-BBFA-8E877147F165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions", "Functions\Functions.csproj", "{FBA305A1-80AC-4632-BBFA-8E877147F165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Functions", "Lab.Functions\Lab.Functions.csproj", "{F96FF5A9-FEE3-4949-86EA-AF4457ABFE4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Functions", "Lab.Functions\Lab.Functions.csproj", "{F96FF5A9-FEE3-4949-86EA-AF4457ABFE4F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M006-OOP", "M006-OOP", "{E0D2C075-A804-4C55-A68F-43A1D4AD6991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Classes", "OOP-Classes\OOP-Classes.csproj", "{324DD8C7-370C-4C35-A18B-7B324B055791}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Classes", "OOP-Classes\OOP-Classes.csproj", "{324DD8C7-370C-4C35-A18B-7B324B055791}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.OOP", "Lab.OOP\Lab.OOP.csproj", "{7758D5C7-341E-482B-8331-BD562DD21D32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.OOP", "Lab.OOP\Lab.OOP.csproj", "{7758D5C7-341E-482B-8331-BD562DD21D32}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M007-OOP-Ref-Static", "M007-OOP-Ref-Static", "{62B6F373-6AB8-4046-971A-E2EA98D35E23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Ref-Static", "OOP-Ref-Static\OOP-Ref-Static.csproj", "{A8F69EFD-E960-4F67-A655-9C0E276B3E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Ref-Static", "OOP-Ref-Static\OOP-Ref-Static.csproj", "{A8F69EFD-E960-4F67-A655-9C0E276B3E2F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M008-OOP-Inheritance", "M008-OOP-Inheritance", "{2C7C8296-D386-4947-B835-7FA60AFC32F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Inheritance", "OOP-Inheritance\OOP-Inheritance.csproj", "{DEA840EE-3131-41EB-927E-E91A11C01C3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Inheritance", "OOP-Inheritance\OOP-Inheritance.csproj", "{DEA840EE-3131-41EB-927E-E91A11C01C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Inheritance", "Lab.Inheritance\Lab.Inheritance.csproj", "{83C9C311-76BD-4BB6-9EE5-3F048CAC2933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Inheritance", "Lab.Inheritance\Lab.Inheritance.csproj", "{83C9C311-76BD-4BB6-9EE5-3F048CAC2933}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M009-OOP-Polymorphismus", "M009-OOP-Polymorphismus", "{2314F7F7-8543-432B-801F-E31FB73A3526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Polymorphismus", "OOP-Polymorphismus\OOP-Polymorphismus.csproj", "{395CA7A8-575D-44A0-9159-634B8906A525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Polymorphismus", "OOP-Polymorphismus\OOP-Polymorphismus.csproj", "{395CA7A8-575D-44A0-9159-634B8906A525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Polymorphismus", "Lab.Polymorphismus\Lab.Polymorphismus.csproj", "{3AA57FE8-76D2-4D1E-9C55-E5538B4A8E4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Polymorphismus", "Lab.Polymorphismus\Lab.Polymorphismus.csproj", "{3AA57FE8-76D2-4D1E-9C55-E5538B4A8E4E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M010-OOP-Interfaces", "M010-OOP-Interfaces", "{A1ADCF22-3077-4FD2-A771-0F55F0CFE418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces", "OOP.Interfaces\OOP.Interfaces.csproj", "{58C482E0-277F-43B1-99DB-5B974C9EDCF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces", "OOP.Interfaces\OOP.Interfaces.csproj", "{58C482E0-277F-43B1-99DB-5B974C9EDCF8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M011-GenericLists", "M011-GenericLists", "{ED5C6835-7D7B-490F-9CE3-BBA252C89D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericLists", "GenericLists\GenericLists.csproj", "{7D252F73-BD9B-461C-96AF-D59BD17BAD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericLists", "GenericLists\GenericLists.csproj", "{7D252F73-BD9B-461C-96AF-D59BD17BAD1A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M012-ExceptionHandling", "M012-ExceptionHandling", "{73A7AEDF-637C-4627-B8B4-78973E4C128D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{EA830260-56F1-44B3-BD6E-20AF2FF7D77A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{EA830260-56F1-44B3-BD6E-20AF2FF7D77A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.ExceptionHandling", "Lab.ExceptionHandling\Lab.ExceptionHandling.csproj", "{EBC66D86-9B86-4713-8ED7-2D510F5E84BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.ExceptionHandling", "Lab.ExceptionHandling\Lab.ExceptionHandling.csproj", "{EBC66D86-9B86-4713-8ED7-2D510F5E84BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.Test", "ExceptionHandling.Test\ExceptionHandling.Test.csproj", "{218A46AA-EA9C-46A6-9957-798A76C5EF2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling.Test", "ExceptionHandling.Test\ExceptionHandling.Test.csproj", "{218A46AA-EA9C-46A6-9957-798A76C5EF2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M013-UserInterface", "M013-UserInterface", "{95B62CB4-EE79-4DDB-8A94-256ED62200A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI-Demo-WPF", "GUI-Demo-WPF\GUI-Demo-WPF.csproj", "{630298B0-1FA4-41E9-A684-117E58103B36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,10 @@ Global
 		{218A46AA-EA9C-46A6-9957-798A76C5EF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{218A46AA-EA9C-46A6-9957-798A76C5EF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{218A46AA-EA9C-46A6-9957-798A76C5EF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630298B0-1FA4-41E9-A684-117E58103B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630298B0-1FA4-41E9-A684-117E58103B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630298B0-1FA4-41E9-A684-117E58103B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630298B0-1FA4-41E9-A684-117E58103B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +193,7 @@ Global
 		{EA830260-56F1-44B3-BD6E-20AF2FF7D77A} = {73A7AEDF-637C-4627-B8B4-78973E4C128D}
 		{EBC66D86-9B86-4713-8ED7-2D510F5E84BA} = {73A7AEDF-637C-4627-B8B4-78973E4C128D}
 		{218A46AA-EA9C-46A6-9957-798A76C5EF2C} = {73A7AEDF-637C-4627-B8B4-78973E4C128D}
+		{630298B0-1FA4-41E9-A684-117E58103B36} = {95B62CB4-EE79-4DDB-8A94-256ED62200A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE7781BF-D188-41F2-B61B-1233C597694B}

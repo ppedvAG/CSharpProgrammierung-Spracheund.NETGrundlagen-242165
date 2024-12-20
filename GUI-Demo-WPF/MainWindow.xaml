@@ -1,0 +1,20 @@
+﻿<Window x:Class="GUI_Demo_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_Demo_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="220" Width="350">
+    <Grid>
+        <Label Content="Unsere WPF Demo Applikation" HorizontalAlignment="Left" Margin="20,18,0,0" VerticalAlignment="Top" Width="188"/>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Margin="20,156,0,0" TextWrapping="Wrap" Text="Hier Name eingeben" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnDoSth" Content="Mach Was!" HorizontalAlignment="Left" Margin="189,82,0,0" VerticalAlignment="Top" Height="92" Width="125" Click="btnDoSth_Click"/>
+        <ComboBox x:Name="cbxOptions" HorizontalAlignment="Left" Margin="20,115,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Male"/>
+            <ComboBoxItem Content="Female"/>
+            <ComboBoxItem Content="Divers"/>
+        </ComboBox>
+        <Label Content="Anrede waehlen" HorizontalAlignment="Left" Margin="20,76,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
